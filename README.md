@@ -1,5 +1,7 @@
 # Love Thy Neighbor
 
+live site: https://trevor2492.github.io/love-thy-neighbor/
+
 A single-page animation of the phrase "Love thy ___ neighbor". The blank cycles through a list of words in random order. After the last word, the blank fades away and leaves "Love thy neighbor", with "neighbor" underlined.
 
 When the run ends, it becomes a replay button that starts again in a new random order. On mobile, the sentence stacks onto three lines.
