@@ -2,7 +2,7 @@
 
 A single-page animation of the phrase "Love thy ___ neighbor". The blank cycles through a list of words in random order. After the last word, the blank fades away and leaves "Love thy neighbor", with "neighbor" underlined.
 
-A button at the bottom of the screen pauses and resumes the animation. When the run ends, it becomes a replay button that starts again in a new random order. On phones, the sentence stacks onto three lines.
+When the run ends, it becomes a replay button that starts again in a new random order. On mobile, the sentence stacks onto three lines.
 
 ## Running it
 
